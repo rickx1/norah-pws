@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Extra informatie bij het profielwerkstuk van Norah
+
+theme: 
+  name: material
+  language: nl
+plugins: []
