@@ -22,7 +22,7 @@ Neurodiversiteit is erg gevarieerd. Hier vind je linkjes naar extra informatie o
 
 * [Gilles-de-la-tourette](https://www.hersenstichting.nl/hersenaandoeningen/gilles-de-la-tourette/)
 
-* [OCS](https://www.hersenstichting.nl/hersenaandoeningen/ocs-obsessieve-compulsieve-stoornis/)
+* [OCS (OCD)](https://www.hersenstichting.nl/hersenaandoeningen/ocs-obsessieve-compulsieve-stoornis/)
 
 * [Epilepsie](https://www.hersenstichting.nl/hersenaandoeningen/epilepsie/)
 
